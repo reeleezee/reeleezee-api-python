@@ -1,5 +1,5 @@
 # reeleezee-api-python
-This repository contains sample code for the Reeleezee API. These samples are explained at the [Reeleezee API Documentation ](http://developer.reeleezee.nl/docs/api/) site.
+This repository contains sample code for the Reeleezee API. These samples are explained at the [Reeleezee API Documentation ](https://www.reeleezee.nl/developer/docs/api/) site.
 
 **Note**: the samples are designed for educational purposes and not per se for commercial implementation.
 
